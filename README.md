@@ -16,7 +16,7 @@ The criteria of filtring the planets is derived from the article titled [A Revie
 <li> Type the following command and run it: </li>
 
 ```
-        node app.js
+node app.js
 ```
 
 </ol>
