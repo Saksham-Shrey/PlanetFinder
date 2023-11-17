@@ -20,8 +20,8 @@ node app.js
 ```
 
 </ol>
-<p>It should now display all of the possibly habitable planets from the Kepler Trlascope data based on the above mentioned criteria </p>
+<p>It should now display all of the possibly habitable planets from the Kepler Trlascope data based on the above mentioned criteria. </p>
 
-
+### Thanks for using my project. Hope you liked it. 😄
 
 
