@@ -30,4 +30,4 @@ fs.createReadStream('KeplerData.csv')
     });
 
 
-//habitability: koi_disposition and Stellar FLux (koi_insol) and Planetary radius (koi_prad)
+//habitability parameters: koi_disposition and Stellar FLux (koi_insol) and Planetary radius (koi_prad)
