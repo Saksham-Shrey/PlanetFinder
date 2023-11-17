@@ -6,8 +6,9 @@ The criteria of filtring the planets is derived from the article titled [A Revie
 
 
 ## How to setup and use it locally
+
+<em>(Assuming the local machine has a github account connected to it)</em>
 <ol>
-(Assuming the local machine has a github account connected to it)
 <li>Fork this repo and clone it in the local machine</li>
 <li>Open it using some code editor (say VS Code)</li>
 <p><em>(It should now prompt you to install some extensions which are required for running the node.js executable file i.e app.js. Go ahead and install them.)</em></p>
